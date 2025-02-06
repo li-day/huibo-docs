@@ -6,15 +6,17 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'CustomTable', link: '/CustomTable' },
-      { text: 'CustomForm', link: '/CustomForm' }
+      { text: 'CustomForm', link: '/CustomForm' },
+      { text: 'CustomDescriptions', link: '/CustomDescriptions' },
     ],
 
     sidebar: [
       {
         text: '公共组件',
         items: [
-          { text: 'CustomTable表格组件', link: '/CustomTable' },
-          { text: 'CustomForm表单组件', link: '/CustomForm' }
+          { text: 'CustomTable表格', link: '/CustomTable' },
+          { text: 'CustomForm表单', link: '/CustomForm' },
+          { text: 'CustomDescriptions描述列表', link: '/CustomDescriptions' },
         ]
       }
     ],

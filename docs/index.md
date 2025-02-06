@@ -14,3 +14,9 @@ hero:
       link: /CustomForm
 ---
 
+<!-- <div v-for="item in arr">{{item}}</div>
+
+<script setup>
+  const arr = [1,2,3]
+</script> -->
+
