@@ -1,11 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "汇播后台管理系统组件",
   description: "汇播后台管理系统组件",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'CustomTable', link: '/CustomTable' },
       { text: 'CustomForm', link: '/CustomForm' }
