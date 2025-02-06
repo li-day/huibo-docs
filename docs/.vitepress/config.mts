@@ -24,5 +24,5 @@ export default defineConfig({
     ]
   },
   outDir: "dist",
-  base: '/repo/'
+  base: '/huibo-docs/'
 })
