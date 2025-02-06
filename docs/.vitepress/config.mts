@@ -23,5 +23,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   },
-  base: "/repo/"
+  outDir: "dist",
+  base: '/repo/'
 })
