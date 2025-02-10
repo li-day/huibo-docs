@@ -21,6 +21,14 @@ export default defineConfig({
             text: "白名单弹窗上传",
             link: "/bulkImport",
           },
+          {
+            text: "文档上传",
+            link: "/upload",
+          },
+          {
+            text: "图片音视频上传",
+            link: "/WebsiteUploadFile",
+          }
         ],
       },
     ],
@@ -33,7 +41,12 @@ export default defineConfig({
           { text: "CustomForm表单", link: "/CustomForm" },
           { text: "CustomDescriptions描述列表", link: "/CustomDescriptions" },
           { text: "website-pagination分页", link: "/website-pagination" },
-          { text: "白名单弹窗上传", link: "/bulkImport" },
+          { text: "bulkImport弹窗上传", link: "/bulkImport" },
+          { text: "upload文档上传", link: "/upload", },
+          {
+            text: "图片音视频上传",
+            link: "/WebsiteUploadFile",
+          }
         ],
       },
     ],
