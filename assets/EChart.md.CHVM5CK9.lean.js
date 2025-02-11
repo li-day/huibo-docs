@@ -1,0 +1,1 @@
+import{_ as d,c as r,o as e,ae as a}from"./chunks/framework.CbbwJxAb.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"EChart.md","filePath":"EChart.md"}'),h={name:"EChart.md"};function n(o,t,i,l,c,s){return e(),r("div",null,t[0]||(t[0]=[a("",4)]))}const g=d(h,[["render",n]]);export{_ as __pageData,g as default};

@@ -1,0 +1,1 @@
+import{_ as d,c as a,o as r,ae as e}from"./chunks/framework.CbbwJxAb.js";const c=JSON.parse('{"title":"TopBox顶部数据统计","description":"","frontmatter":{},"headers":[],"relativePath":"TopBox.md","filePath":"TopBox.md"}'),o={name:"TopBox.md"};function h(i,t,l,n,s,p){return r(),a("div",null,t[0]||(t[0]=[e("",7)]))}const x=d(o,[["render",h]]);export{c as __pageData,x as default};
