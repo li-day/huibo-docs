@@ -28,7 +28,20 @@ export default defineConfig({
           {
             text: "图片音视频上传",
             link: "/WebsiteUploadFile",
-          }
+          },
+        ],
+      },
+      {
+        text: "数据统计",
+        items: [
+          {
+            text: "TopBox表格数据统计",
+            link: "/TopBox",
+          },
+          {
+            text: "图表Echart",
+            link: "/EChart",
+          },
         ],
       },
     ],
@@ -42,11 +55,19 @@ export default defineConfig({
           { text: "CustomDescriptions描述列表", link: "/CustomDescriptions" },
           { text: "website-pagination分页", link: "/website-pagination" },
           { text: "bulkImport弹窗上传", link: "/bulkImport" },
-          { text: "upload文档上传", link: "/upload", },
+          { text: "upload文档上传", link: "/upload" },
           {
             text: "图片音视频上传",
             link: "/WebsiteUploadFile",
-          }
+          },
+          {
+            text: "TopBox表格数据统计",
+            link: "/TopBox",
+          },
+          {
+            text: "图表Echart",
+            link: "/EChart",
+          },
         ],
       },
     ],
